@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Toner",
+      "email": "toner@mail.com",
+      "senha": "123456",
+      "curso": "letras"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro",
+      "email": "pedro@mail.com",
+      "senha": "123456",
+      "curso": "matemática"
+    },
+    {
+      "id": 4,
+      "nome": "Silva",
+      "email": "silva@mail.com",
+      "senha": "123456",
+      "curso": "computação"
+    },
+    {
+      "nome": "test",
+      "email": "qsad",
+      "senha": "asd",
+      "curso": "asd",
+      "id": 5
+    }
+  ]
+}
